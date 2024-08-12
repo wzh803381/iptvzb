@@ -1,5 +1,5 @@
 ﻿超高清频道,#genre#
-CCTV4K,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081302.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV4K,http://my4.zhoujie218.top:50000/ysp/cctv4k
 北京纪实科技8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京纪实科技8K,https://epg.pw/stream/f48875235ce63399ced8a8f27167ceea2fda31675f2b15a967a49f1ec6bba9f7.m3u8
