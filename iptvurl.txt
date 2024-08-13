@@ -5,7 +5,7 @@ CCTV4K,http://183.31.9.252:9001/udp/239.77.0.174:5146
 北京纪实科技8K,https://epg.pw/stream/f48875235ce63399ced8a8f27167ceea2fda31675f2b15a967a49f1ec6bba9f7.m3u8
 CCTV8K,http://my4.zhoujie218.top:50000/ysp/cctv8k
 CCTV8K,http://148.135.93.213:81/live.php?id=CCTV8-4K
-南国都市4K,http://183.31.9.25:9001/udp/239.253.43.99:5146
+南国都市4K,http://183.31.9.252:9001/udp/239.253.43.99:5146
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 CCTV16-4K,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
 4K超高清电影,https://itv.lat/hls?channel=emdy4k_8000&token=567bcc7f346c8ce22e1893cee0f43a3a
