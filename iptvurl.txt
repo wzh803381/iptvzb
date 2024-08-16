@@ -370,11 +370,11 @@ BTV国际频道,http://114.254.35.3:4022/rtp/239.3.1.235:8000
 爱上4K[超清],http://114.254.35.3:4022/rtp/239.3.1.236:2000
 4K超清[超清],http://114.254.35.3:4022/rtp/239.3.1.249:8001
 外语频道,#genre#
-BBC,https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
-CNN,https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8
+BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 NBC,https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8
-FOX,https://jmp2.uk/SamsungTVPlus/USBA300024TN.m3u8
+FOXNEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 SkyNews,https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
 WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 Scripps News,https://jmp2.uk/SamsungTVPlus/USBD3000073N.m3u8
