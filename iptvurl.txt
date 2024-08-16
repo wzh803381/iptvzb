@@ -378,7 +378,7 @@ CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 NBC,https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8
 FOXNEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-SkyNews,https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
+SkyNews,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 Scripps News,https://jmp2.uk/SamsungTVPlus/USBD3000073N.m3u8
 AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
