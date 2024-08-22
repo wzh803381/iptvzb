@@ -1,5 +1,5 @@
 ﻿超高清频道,#genre#
-CCTV-4K 4K,ttps://pi.0472.org/livetv/cctv4k.m3u8
+CCTV-4K 4K,https://pi.0472.org/livetv/cctv4k.m3u8
 CCTV-4K 4K,http://110.231.38.106:12388/rtp/239.253.93.134:6631
 北京纪实科技8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京纪实科技8K,https://epg.pw/stream/f48875235ce63399ced8a8f27167ceea2fda31675f2b15a967a49f1ec6bba9f7.m3u8
@@ -167,6 +167,8 @@ CHC动作电影,http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7
 CHC动作电影,http://106.59.3.147:55555/udp/239.200.201.31:8144
 CHC家庭影院,http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
 CHC家庭影院,http://106.59.3.147:55555/udp/239.200.201.30:8140
+中华美食,https://gdcucc.v1.mk/gdcucc/G_ZHONGHUAMS.m3u8
+天元围棋,https://gdcucc.v1.mk/gdcucc/G_TIANYUANWQ.m3u8
 其它数字电视频道,#genre#
 纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
