@@ -151,9 +151,8 @@ CCTV女性时尚HD,http://223.240.166.252:4022/rtp/238.1.79.55:4576
 CCTV兵器科技HD,http://223.240.166.252:4022/rtp/238.1.79.56:4584
 CCTV世界地理HD,http://223.240.166.252:4022/rtp/238.1.79.60:4616
 CCTV怀旧剧场HD,http://223.240.166.252:4022/rtp/238.1.79.61:4624
-CCTV风云剧场HD,http://video.qd.sdu.edu.cn/liverespath/b083346698bce1976b5647cd5e93c96e7c817988/index.m3u8
+CCTV风云剧场HD,http://223.240.166.252:4022/rtp/238.1.79.62:4632
 CCTV第一剧场HD,http://223.240.166.252:4022/rtp/238.1.79.63:4640
-CCTV风云音乐HD,http://video.qd.sdu.edu.cn/liverespath/1e9d4739cc4b85ecee2447297d434be883efa7d8/index.m3u8
 CCTV风云音乐HD,http://223.240.166.252:4022/rtp/238.1.79.64:4648
 CCTV高尔夫网球HD,http://223.240.166.252:4022/rtp/238.1.79.58:4600
 CCTV央视台球HD,http://223.240.166.252:4022/rtp/238.1.79.59:4608
