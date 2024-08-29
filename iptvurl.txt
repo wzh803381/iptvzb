@@ -140,7 +140,7 @@ CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-2,http://119.112.66.98:4000/rtp/232.0.0.98:8612
 CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-CETV-3,http://hwylivehd.centv.cn/cetv3/bjdm.m3u8
+CETV-3,http://video.qd.sdu.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/index.m3u8
 CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CETV-4,http://119.112.66.98:4000/rtp/232.0.0.175:9354
 CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
@@ -152,8 +152,10 @@ CCTV兵器科技HD,http://223.240.166.252:4022/rtp/238.1.79.56:4584
 CCTV世界地理HD,http://223.240.166.252:4022/rtp/238.1.79.60:4616
 CCTV怀旧剧场HD,http://223.240.166.252:4022/rtp/238.1.79.61:4624
 CCTV风云剧场HD,http://223.240.166.252:4022/rtp/238.1.79.62:4632
+CCTV风云剧场HD,http://video.qd.sdu.edu.cn/liverespath/b083346698bce1976b5647cd5e93c96e7c817988/index.m3u8
 CCTV第一剧场HD,http://223.240.166.252:4022/rtp/238.1.79.63:4640
 CCTV风云音乐HD,http://223.240.166.252:4022/rtp/238.1.79.64:4648
+CCTV风云音乐HD,http://video.qd.sdu.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/index.m3u8
 CCTV高尔夫网球HD,http://223.240.166.252:4022/rtp/238.1.79.58:4600
 CCTV央视台球HD,http://223.240.166.252:4022/rtp/238.1.79.59:4608
 CCTV风云足球HD,http://223.240.166.252:4022/rtp/238.1.79.57:4592
