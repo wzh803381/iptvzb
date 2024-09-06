@@ -9,6 +9,7 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105
 云南4K,http://106.59.3.147:55555/udp/239.200.200.178:8884
 云南4K,http://enlen.vip:4022/udp/239.200.200.178:8884
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+CCTV16-4K,http://bl.dchwtq.asia:10000/rtp/239.69.1.249:11136
 CCTV16-4K,http://122.246.150.139:9999/udp/233.50.201.63:5140
 ipv6央视频道,#genre#
 CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
