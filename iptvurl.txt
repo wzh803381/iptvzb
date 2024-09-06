@@ -346,6 +346,8 @@ BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_new
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 NBC,https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8
+CNBC,http://shuma004.chunfengyun.top:8080/live/102/hls.m3u8
+NBC News Now,http://fox-foxnewsnow-samsungus.amagi.tv/playlist360p.m3u8
 FOXNEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 ABC Australia,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
