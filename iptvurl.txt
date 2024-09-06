@@ -269,7 +269,7 @@ AuthInfo=9kOOdBn7MFF/2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2Voxnx
 宁波TV1,http://122.246.150.139:9999/rtp/233.50.201.168:5140
 宁波TV2,http://122.246.150.139:9999/rtp/233.50.201.178:5140
 宁波TV3,http://122.246.150.139:9999/rtp/233.50.201.179:5140
-宁波TV4,http://122.246.150.139:9999/rtp/233.50.201.180:514
+宁波TV4,http://122.246.150.139:9999/rtp/233.50.201.180:5140
 萧山综合频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 余杭新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 余杭未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
