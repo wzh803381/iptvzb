@@ -1,4 +1,5 @@
 ﻿超高清频道,#genre#
+CCTV-4K,http://110.184.115.4:4022/rtp/239.93.42.42:5140
 CCTV-4K 4K,http://60.10.135.181:555/rtp/239.253.93.134:6631
 CCTV-4K 4K,http://jt.zorua.cn:8787/udp/239.77.0.194:5146
 北京纪实科技8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
