@@ -1,5 +1,5 @@
 ﻿超高清频道,#genre#
-CCTV-4K,http://123.113.181.108:9000/rtp/239.3.1.245:2000                                
+CCTV-4K,http://114.254.187.194:9999/rtp/239.3.1.245:2000                              
 CCTV16-4K,http://115.215.188.191:8888/udp/233.50.201.63:5140
 北京纪实科技8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京纪实科技8K,https://epg.pw/stream/f48875235ce63399ced8a8f27167ceea2fda31675f2b15a967a49f1ec6bba9f7.m3u8
