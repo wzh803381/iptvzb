@@ -146,18 +146,18 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CETV-4,http://119.112.66.98:4000/rtp/232.0.0.175:9354
 CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 数字电视频道,#genre#
-CCTV电视指南HD,http://60.168.225.139:2000/rtp/238.1.79.53:4560            
-CCTV央视文化精品HD,http://60.168.225.139:2000/rtp/238.1.79.54:4568
-CCTV女性时尚HD,http://60.168.225.139:2000/rtp/238.1.79.55:4576
-CCTV兵器科技HD,http://60.168.225.139:2000/rtp/238.1.79.56:4584
-CCTV世界地理HD,http://60.168.225.139:2000/rtp/238.1.79.60:4616
-CCTV怀旧剧场HD,http://60.168.225.139:2000/rtp/238.1.79.61:4624
-CCTV风云剧场HD,http://60.168.225.139:2000/rtp/238.1.79.62:4632
-CCTV第一剧场HD,http://60.168.225.139:2000/rtp/238.1.79.63:4640
-CCTV风云音乐HD, http://60.168.225.139:2000/rtp/238.1.79.64:4648
-CCTV高尔夫网球HD,http://60.168.225.139:2000/rtp/238.1.79.58:4600
-CCTV央视台球HD,http://60.168.225.139:2000/rtp/238.1.79.59:4608
-CCTV风云足球HD,http://60.168.225.139:2000/rtp/238.1.79.57:4592
+风云音乐HD,http://175.170.254.155:8888/rtp/232.0.0.108:9288   
+第一剧场HD,http://175.170.254.155:8888/rtp/232.0.0.147:9132                                  
+怀旧剧场HD,http://175.170.254.155:8888/rtp/232.0.0.204:9226
+风云剧场HD,http://175.170.254.155:8888 /rtp/232.0.0.52:8610
+风云足球HD,http://175.170.254.155:8888/rtp/232.0.0.90:9286
+央视台球HD,http://175.170.254.155:8888/rtp/232.0.0.122:9290       
+高尔夫网球,http://[2409:8087:74d9:21::6]:80/270000001128/9900000094/index.m3u8
+女性时尚HD,http://175.170.254.155:8888/rtp/232.0.0.120:8858
+兵器科技HD,http://175.170.254.155:8888 /rtp/232.0.0.121:8882
+世界地理HD,http://175.170.254.155:8888 /rtp/232.0.0.123:9292
+电视指南HD,http://175.170.254.155:8888/rtp/232.0.0.124:9294
+央视精品HD,http://175.170.254.155:8888 /rtp/232.0.0.107:8698
 CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
 CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
 CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
