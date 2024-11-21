@@ -12,7 +12,7 @@ ipv6央视频道,#genre#
 CCTV1综合,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000001
 CCTV2财经,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000502
 CCTV3综艺,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000003
-CCTV4国际,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000503
+CCTV4中文国际,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000503
 CCTV5体育,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000005
 CCTV5+体育赛事,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000507
 CCTV6电影,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000006
@@ -28,11 +28,6 @@ CCTV15音乐,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900
 CCTV16奥林匹克,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000016
 CCTV17农业农村,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000513
 CGTN,https://0472.org/hls/cgtn.m3u8
-CGTN纪录,https://0472.org/hls/cgtnd.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
 ipv6地方卫视,#genre#
 凤凰中文,http://220.191.84.86:9999/udp/233.50.200.42:5140
 凤凰资讯,http://220.191.84.86:9999/udp/233.50.200.192:5140
