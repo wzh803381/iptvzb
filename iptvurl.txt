@@ -83,6 +83,16 @@ ipv6地方卫视,#genre#
 中国教育2台,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000077/index.m3u8?IASHttpSessionId=
 中国教育4台,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000666/index.m3u8?IASHttpSessionId=
 数字电视频道,#genre#
+CCTV-世界地理,http://cqshushu.us.kg:2086/ln.php?id=cctvshjdl-1
+CCTV-兵器科技,http://cqshushu.us.kg:2086/ln.php?id=cctvbqkj-1
+CCTV-央视文化精品,http://cqshushu.us.kg:2086/ln.php?id=cctvshhjp-1
+CCTV-女性时尚,http://cqshushu.us.kg:2086/ln.php?id=cctvnxshsh-1
+CCTV-怀旧剧场,http://cqshushu.us.kg:2086/ln.php?id=cctvhjjch-1
+CCTV-电视指南,http://cqshushu.us.kg:2086/ln.php?id=cctvdshzhn-1
+CCTV-第一剧场,http://cqshushu.us.kg:2086/ln.php?id=cctvdjch-1
+CCTV-风云剧场,http://cqshushu.us.kg:2086/ln.php?id=cctvfjch-1
+CCTV-风云足球,http://cqshushu.us.kg:2086/ln.php?id=cctvfzq-1
+CCTV-风云音乐,http://cqshushu.us.kg:2086/ln.php?id=cctvf-1
 CCTV-央视文化精品, http://111.167.64.129:4022/udp/225.1.2.177:5002
 CCTV-电视指南,http://111.167.64.129:4022/udp/225.1.2.167:5002
 CCTV-世界地理,http://111.167.64.129:4022/udp/225.1.2.171:5002
