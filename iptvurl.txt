@@ -239,7 +239,7 @@ AuthInfo=9kOOdBn7MFF/2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2Voxnx
 松阳新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
 龙泉新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 云和新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
-浙江本地频道内网IPV4,#genre#
+浙江频道内网V4,#genre#
 中国蓝直播高清,http://192.168.1.211:4022/udp/233.50.201.108:5140
 浙江卫视高清,http://192.168.1.211:4022/udp/233.50.201.100:5140
 浙江钱江高清,http://192.168.1.211:4022/udp/233.50.201.132:5140
