@@ -54,22 +54,20 @@ ipv6地方卫视,#genre#
 中国教育1台,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=YanG-1989
 中国教育4台,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=YanG-1989
 数字电视频道,#genre#
-CCTV电视指南HD,http://171.119.205.159:6001/rtp/226.0.2.218:9656
-CCTV央视文化精品HD,http://171.119.205.159:6001/rtp/226.0.2.219:9664
-CCTV风云足球HD,http://171.119.205.159:6001/rtp/226.0.2.225:9712
-CCTV央视台球HD,http://171.119.205.159:6001/rtp/226.0.2.216:9640
-CCTV高网HD,http://171.119.205.159:6001/rtp/226.0.2.217:9648
-CCTV世界地理HD,http://171.119.205.159:6001/rtp/226.0.2.222:9688
-CCTV兵器科技HD,http://171.119.205.159:6001/rtp/226.0.2.223:9696
-CCTV女性时尚HD,http://171.119.205.159:6001/rtp/226.0.2.226:9720
-CCTV风云音乐HD,http://171.119.205.159:6001/rtp/226.0.2.220:9672
-CCTV第一剧场HD,http://171.119.205.159:6001/rtp/226.0.2.221:9680
-CCTV怀旧剧场HD,http://171.119.205.159:6001/rtp/226.0.2.224:9704
-CCTV风云剧场HD,http://171.119.205.159:6001/rtp/226.0.2.227:9728
-CHC家庭影院,http://171.119.205.159:6001/rtp/226.0.2.240:9820
-CHC影迷电影,http://171.119.205.159:6001/rtp/226.0.2.93:8004
-CHC动作电影,http://171.119.205.159:6001/rtp/226.0.2.94:8012
+CHC家庭影院,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CHC影迷电影,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+CHC动作电影,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 其它数字电视频道,#genre#
+纪实科教,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000001000001910/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=YanG-1989
+广东珠江,http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000003000000033/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=YanG-1989
+精彩影视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=YanG-1989
+卡酷少儿,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000265008/index.m3u8?channel-id=bestzb&Contentid=5000000011000265008&livemode=1&stbId=YanG-1989
+哈哈炫动,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=YanG-1989
+金鹰卡通,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=YanG-1989
+金鹰纪实,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031203/index.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=YanG-1989
+茶频道,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031209/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=YanG-1989
+快乐垂钓,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=YanG-1989
+健康养生,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000288006/index.m3u8?channel-id=bestzb&Contentid=5000000011000288006&livemode=1&stbId=YanG-1989
 纪实科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 东北热剧http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
@@ -100,6 +98,10 @@ CHC动作电影,http://171.119.205.159:6001/rtp/226.0.2.94:8012
 睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+求索纪录,http://[2409:8087:5e00:24::20]:6610/000000001000/1/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=YanG-1989
+求索生活,http://[2409:8087:5e00:24::20]:6610/000000001000/1/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=YanG-1989
+求索动物,http://[2409:8087:5e00:24::20]:6610/000000001000/1/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=YanG-1989
+求索科学,http://[2409:8087:5e00:24::20]:6610/000000001000/1/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=YanG-1989
 浙江地区频道,#genre#
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
@@ -154,43 +156,22 @@ CHC动作电影,http://171.119.205.159:6001/rtp/226.0.2.94:8012
 丽水新闻,http://192.168.1.211:4022/udp/233.50.201.162:5140
 YMG新闻,http://192.168.1.211:4022/udp/233.50.201.159:5140
 上海地区频道v6,#genre#
-上海新闻综合,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
-上海都市,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
-上海外语,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
-七彩戏剧,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
-五星体育,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
-东方影视,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
-东方财经,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281
-法治天地,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
-第一财经,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
-北京联通组播频道,#genre#
-BRTV新闻HD,http://123.113.187.204:8000/rtp/239.3.1.159:8000       
-BRTV影视HD,http://123.113.187.204:8000/rtp/239.3.1.158:8000
-BRTV文艺HD,http://123.113.187.204:8000/rtp/239.3.1.242:8000                   
-BRTV财经HD,http://123.113.187.204:8000/rtp/239.3.1.116:8000
-BRTV生活HD,http://123.113.187.204:8000/rtp/239.3.1.117:8000
-BRTV纪实科教HD,http://123.113.187.204:8000/rtp/239.3.1.115:8000
-BRTV卡酷少儿HD,http://123.113.187.204:8000/rtp/239.3.1.189:8000
-BRTV体育休闲[超清],http://123.113.187.204:8000/rtp/239.3.1.243:8000
-BTV国际频道,http://123.113.187.204:8000/rtp/239.3.1.235:8000
-淘电影HD,http://123.113.187.204:8000/rtp/239.3.1.250:8001
-纪实人文HD,http://123.113.187.204:8000/rtp/239.3.1.212:8060
-金鹰纪实HD,http://123.113.187.204:8000/rtp/239.3.1.58:8156
-淘剧场HD,http://123.113.187.204:8000/rtp/239.3.1.95:8001
-淘娱乐HD,http://123.113.187.204:8000/rtp/239.3.1.100:8001
-淘BabyHD,http://123.113.187.204:8000/rtp/239.3.1.238:8001
-萌宠TVHD,http://123.113.187.204:8000/rtp/239.3.1.102:8001
-睛彩竞技HD,http://123.113.187.204:8000/rtp/239.3.1.125:8001
-睛彩篮球HD,http://123.113.187.204:8000/rtp/239.3.1.126:8001
-睛彩羽毛球HD,http://123.113.187.204:8000/rtp/239.3.1.127:8001
-睛彩广场舞HD,http://123.113.187.204:8000/rtp/239.3.1.128:8001
-茶频道HD,http://123.113.187.204:8000/rtp/239.3.1.165:8001
-淘精彩HD,http://123.113.187.204:8000/rtp/239.3.1.178:8001
-快乐垂钓HD,http://123.113.187.204:8000/rtp/239.3.1.164:8001
-大健康HD,http://123.113.187.204:8000/rtp/239.3.1.251:8001
-中国交通HD,http://123.113.187.204:8000/rtp/239.3.1.188:8001
-爱上4K[超清],http://123.113.187.204:8000/rtp/239.3.1.236:2000
-4K超清[超清],http://123.113.187.204:8000/rtp/239.3.1.249:8001
+SiTV 五星体育,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=YanG-1989
+SiTV 劲爆体育,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=YanG-1989
+SiTV 魅力足球,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=YanG-1989
+SiTV 欢笑剧场,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=YanG-1989
+SiTV 法治天地,http://[2409:8087:5e00:24::20]:6610/000000001000/1/9001547084732463424/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=YanG-1989
+SiTV 乐游,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031112/index.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=YanG-1989
+SiTV 动漫秀场,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=YanG-1989
+SiTV 游戏风云,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031114/index.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=YanG-1989
+SiTV 生活时尚,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=YanG-1989
+SiTV 都市剧场,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=YanG-1989
+SiTV 金色学堂,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000010000026105/index.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=YanG-1989
+SiTV 第一财经,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=YanG-1989
+SiTV 东方财经,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=YanG-1989
+SiTV 东方影视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=YanG-1989
+SiTV 上海都市,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=YanG-1989
+SiTV 上海新闻,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=YanG-1989
 外语频道,#genre#
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
