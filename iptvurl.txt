@@ -13,7 +13,6 @@ CCTV-5+ 体育赛事,http://192.168.1.211:4022/udp/233.50.201.220:5140
 CCTV-6 电影,http://192.168.1.211:4022/udp/233.50.201.198:5140
 CCTV-7 国防军事,http://192.168.1.211:4022/udp/233.50.201.120:5140
 CCTV-8 电视剧,http://192.168.1.211:4022/udp/233.50.201.199:5140
-CCTV-9 纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV-9 纪录,http://192.168.1.211:4022/udp/233.50.201.121:5140
 CCTV-10 科教,http://192.168.1.211:4022/udp/233.50.201.122:5140
 CCTV-11 戏曲,http://192.168.1.211:4022/udp/233.50.201.11:5140
@@ -38,7 +37,6 @@ CCTV-17 农业农村,http://192.168.1.211:4022/udp/233.50.200.113:5140
 江苏卫视,http://192.168.1.211:4022/udp/233.50.201.106:5140
 湖北卫视,http://192.168.1.211:4022/udp/233.50.201.114:5140
 广东卫视,http://192.168.1.211:4022/udp/233.50.201.102:5140
-广西卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=3
 黑龙江卫视,http://192.168.1.211:4022/udp/233.50.201.115:5140
 深圳卫视,http://192.168.1.211:4022/udp/233.50.201.101:5140
 山东卫视,http://192.168.1.211:4022/udp/233.50.201.105:5140
@@ -47,15 +45,8 @@ CCTV-17 农业农村,http://192.168.1.211:4022/udp/233.50.200.113:5140
 重庆卫视,http://192.168.1.211:4022/udp/233.50.201.143:5140
 河南卫视,http://192.168.1.211:4022/udp/233.50.201.144:5140
 东南卫视,http://192.168.1.211:4022/udp/233.50.201.146:5140
-海南卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
-甘肃卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3
-青海卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=3
-宁夏卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040022&livemode=1&stbId=3
-新疆卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040018&livemode=1&stbId=3
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-三沙卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000288016&livemode=1&stbId=3
-西藏卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5381760837640571168&livemode=1&stbId=3
 教育电视频道,#genre#
 中国教育1台,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
 中国教育4台,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
