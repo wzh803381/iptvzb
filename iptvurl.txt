@@ -5,9 +5,7 @@ CCTV-4K,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081303.m3u8
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 央视频道,#genre#
 CCTV-1 综合,http://192.168.1.211:4022/udp/233.50.201.118:5140                          
-CCTV-1 综合,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265001&livemode=1&stbId=3
 CCTV-2 财经,http://192.168.1.211:4022/udp/233.50.201.119:5140
-CCTV-2 财经,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=3
 CCTV-3 综艺,http://192.168.1.211:4022/udp/233.50.201.196:5140
 CCTV-4 中文国际,http://192.168.1.211:4022/udp/233.50.200.101:5140                            
 CCTV-5 体育,http://192.168.1.211:4022/udp/233.50.201.197:5140
@@ -49,7 +47,7 @@ CCTV-17 农业农村,http://192.168.1.211:4022/udp/233.50.200.113:5140
 重庆卫视,http://192.168.1.211:4022/udp/233.50.201.143:5140
 河南卫视,http://192.168.1.211:4022/udp/233.50.201.144:5140
 东南卫视,http://192.168.1.211:4022/udp/233.50.201.146:5140
-海南卫视,,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
+海南卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
 甘肃卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3
 青海卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=3
@@ -63,11 +61,11 @@ CCTV-17 农业农村,http://192.168.1.211:4022/udp/233.50.200.113:5140
 中国教育4台,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 数字电视频道,#genre#
 CHC家庭影院,http://113.195.45.40:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC影迷电影,,http://113.195.45.40:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC影迷电影,http://113.195.45.40:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC动作电影,http://113.195.45.40:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=0&authid=0
 其它数字电视频道,#genre#
 纪实科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-东北热剧http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
