@@ -4,9 +4,11 @@ CCTV-8K,http://www.clmy.cc:35455/gaoma/cctv8k_36m.m3u8
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 央视频道,#genre#
 CCTV-1 综合,http://192.168.1.211:4022/udp/233.50.201.118:5140                          
+CCTV-1 综合,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=1587240374177179388
 CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-1 综合,http://106.53.99.30/dl/bjyd.php?id=1
 CCTV-2 财经,http://192.168.1.211:4022/udp/233.50.201.119:5140
+CCTV-2 财经,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907
 CCTV-2 财经,http://106.53.99.30/dl/bjyd.php?id=2
 CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-3 综艺,http://192.168.1.211:4022/udp/233.50.201.196:5140
@@ -17,9 +19,12 @@ CCTV-5 体育,http://192.168.1.211:4022/udp/233.50.201.197:5140
 CCTV-5+ 体育赛事,http://192.168.1.211:4022/udp/233.50.201.220:5140
 CCTV-6 电影,http://192.168.1.211:4022/udp/233.50.201.198:5140
 CCTV-7 国防军事,http://192.168.1.211:4022/udp/233.50.201.120:5140
+CCTV-7 国防军事,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-7hd/2500.m3u8?innersid=14916759019483157794
 CCTV-8 电视剧,http://192.168.1.211:4022/udp/233.50.201.199:5140
 CCTV-9 纪录,http://192.168.1.211:4022/udp/233.50.201.121:5140
+CCTV-9 纪录,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-9hd/2500.m3u8?innersid=14916759019483157794
 CCTV-10 科教,http://192.168.1.211:4022/udp/233.50.201.122:5140
+CCTV-10 科教,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-10hd/2500.m3u8?innersid=14916759019483157794
 CCTV-11 戏曲,http://192.168.1.211:4022/udp/233.50.201.11:5140
 CCTV-12 社会与法,http://192.168.1.211:4022/udp/233.50.201.123:5140
 CCTV-13 新闻,http://192.168.1.211:4022/udp/233.50.201.246:5140
