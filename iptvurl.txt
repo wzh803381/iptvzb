@@ -4,9 +4,15 @@ CCTV-8K,http://www.clmy.cc:35455/gaoma/cctv8k_36m.m3u8
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 央视频道,#genre#
 CCTV-1 综合,http://192.168.1.211:4022/udp/233.50.201.118:5140                          
+CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
+CCTV-1 综合,http://106.53.99.30/dl/bjyd.php?id=1
 CCTV-2 财经,http://192.168.1.211:4022/udp/233.50.201.119:5140
+CCTV-2 财经,http://106.53.99.30/dl/bjyd.php?id=2
+CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-3 综艺,http://192.168.1.211:4022/udp/233.50.201.196:5140
+CCTV-3 综艺,http://z.b.bkpcp.top/m.php?id=cctv3
 CCTV-4 中文国际,http://192.168.1.211:4022/udp/233.50.200.101:5140                            
+CCTV-4 中文国际,http://106.53.99.30/dl/bjyd.php?id=3
 CCTV-5 体育,http://192.168.1.211:4022/udp/233.50.201.197:5140
 CCTV-5+ 体育赛事,http://192.168.1.211:4022/udp/233.50.201.220:5140
 CCTV-6 电影,http://192.168.1.211:4022/udp/233.50.201.198:5140
@@ -52,6 +58,8 @@ CCTV-17 农业农村,http://192.168.1.211:4022/udp/233.50.200.113:5140
 中国教育1台,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
 中国教育4台,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 数字影视剧频道,#genre#
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
 漫威电影,http://zzy789.xyz/douyu1.php?id=6140589
