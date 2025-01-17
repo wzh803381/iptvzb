@@ -55,7 +55,7 @@ CCTV-17 农业农村,http://192.168.1.211:4022/udp/233.50.200.113:5140
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 教育电视频道,#genre#
-中国教育1台,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
+中国教育1台,http://192.168.1.211:4022/udp/233.50.201.75:5140  
 中国教育4台,http://192.168.1.211:4022/udp/233.50.200.162:5140
 数字影视剧频道,#genre#
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
