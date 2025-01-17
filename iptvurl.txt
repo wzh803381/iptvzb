@@ -56,7 +56,7 @@ CCTV-17 农业农村,http://192.168.1.211:4022/udp/233.50.200.113:5140
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 教育电视频道,#genre#
 中国教育1台,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
-中国教育4台,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
+中国教育4台,http://192.168.1.211:4022/udp/233.50.200.162:5140
 数字影视剧频道,#genre#
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
@@ -124,18 +124,17 @@ YMG新闻,http://192.168.1.211:4022/udp/233.50.201.159:5140
 SiTV 五星体育,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 SiTV 劲爆体育,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 SiTV 魅力足球,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
-SiTV 欢笑剧场,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
-SiTV 法治天地,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
-SiTV 乐游,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
-SiTV 动漫秀场,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
-SiTV 游戏风云,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
-SiTV 生活时尚,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
-SiTV 都市剧场,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000002000004412&livemode=1&stbId=3
-SiTV 金色学堂,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
-SiTV 第一财经,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
+SiTV 欢笑剧场,http://192.168.1.211:4022/udp/233.50.200.229:5140
+SiTV 法治天地,http://192.168.1.211:4022/udp/233.50.200.120:5140
+SiTV 乐游,http://192.168.1.211:4022/udp/233.50.200.148:5140
+SiTV 动漫秀场,http://192.168.1.211:4022/udp/233.50.201.184:5140
+SiTV 游戏风云,http://192.168.1.211:4022/udp/233.50.200.14:5140
+SiTV 生活时尚,http://192.168.1.211:4022/udp/233.50.200.15:5140
+SiTV 都市剧场,http://192.168.1.211:4022/udp/233.50.200.11:5140
+SiTV 金色学堂,http://192.168.1.211:4022/udp/233.50.200.122:5140
+SiTV 第一财经,http://192.168.1.211:4022/udp/233.50.200.125:5140
 SiTV 东方财经,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
 SiTV 东方影视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
-SiTV 上海都市,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 SiTV 上海新闻,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 外语频道,#genre#
 CGTN英语,https://0472.org/hls/cgtn.m3u8
