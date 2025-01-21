@@ -25,7 +25,6 @@ CCTV-7 国防军事,http://106.53.99.30/dl/bjyd.php?id=4
 CCTV-8 电视剧,http://192.168.1.211:4022/udp/233.50.201.199:5140
 CCTV-8 电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
 CCTV-9 纪录,http://192.168.1.211:4022/udp/233.50.201.121:5140
-CCTV-9 纪录,http://106.53.99.30/dl/bjyd.php?id=4
 CCTV-9 纪录,http://z.b.bkpcp.top/m.php?id=cctv9
 CCTV-10 科教,http://192.168.1.211:4022/udp/233.50.201.122:5140
 CCTV-10 科教,http://z.b.bkpcp.top/m.php?id=cctv10
