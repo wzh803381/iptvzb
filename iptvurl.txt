@@ -31,8 +31,7 @@ CCTV-5+ 体育赛事,http://192.168.1.211:4022/udp/233.50.201.220:5140
 CCTV-6 电影,http://z.b.bkpcp.top/m.php?id=cctv6
 CCTV-6 电影,http://liushizupu.site:35455/gaoma/cctv6.m3u8
 CCTV-6 电影,http://192.168.1.211:4022/udp/233.50.201.198:5140
-CCTV-7 国防军事,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2bEV_zkW1hRnWmsZq6rlbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-
-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV-7 国防军事,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7E2bEV_zkW1hRnWmsZq6rlbw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Fc_MEUOVd0CBbc2BFzAJH_%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192548%2C%2C%2C20240420192548%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV-7 国防军事,http://liushizupu.site:35455/gaoma/cctv7.m3u8
 CCTV-7 国防军事,http://192.168.1.211:4022/udp/233.50.201.120:5140
 CCTV-7 国防军事,http://z.b.bkpcp.top/m.php?id=cctv7
@@ -55,14 +54,12 @@ CCTV-11 戏曲,http://liushizupu.site:35455/gaoma/cctv11.m3u8
 CCTV-11 戏曲,http://192.168.1.211:4022/udp/233.50.201.11:5140
 CCTV-11 戏曲,http://106.53.99.30/dl/bjyd.php?id=7
 CCTV-11 戏曲,http://z.b.bkpcp.top/m.php?id=cctv11
-CCTV-12 社会与法,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E9nVa4WyKpuJgFy6Zh4TplQ%7EtP4-
-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV-12 社会与法,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7E9nVa4WyKpuJgFy6Zh4TplQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HnJxyKiyVyy_NI7qKUlh3o%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192553%2C%2C%2C20240420192553%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV-12 社会与法,http://liushizupu.site:35455/gaoma/cctv12.m3u8
 CCTV-12 社会与法,http://192.168.1.211:4022/udp/233.50.201.123:5140
 CCTV-12 社会与法,http://106.53.99.30/dl/bjyd.php?id=8
 CCTV-12 社会与法,http://z.b.bkpcp.top/m.php?id=cctv12
-CCTV-13 新闻,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-
-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV-13 新闻,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7FeVpwiXzm8Z1FT0IzXPiAe%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192554%2C%2C%2C20240420192554%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV-13 新闻,http://liushizupu.site:35455/gaoma/cctv13.m3u8
 CCTV-13 新闻,http://192.168.1.211:4022/udp/233.50.201.246:5140
 CCTV-13 新闻,http://106.53.99.30/dl/bjyd.php?id=9
