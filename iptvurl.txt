@@ -202,7 +202,7 @@ NBC News Now,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132
 FOXNEWS,http://fox-foxnewsnow-samsungus.amagi.tv/playlist360p.m3u8
 FOXNEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 ABC News NY,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-ABC Australia,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+ABC Australia,http://extraott.com:80/live/6772191932/1654508883/191837.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
