@@ -183,7 +183,7 @@ FOXNEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 ABC News NY,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 ABC News Australia,https://stream1.freetv.fun/abc-news-australia-1.m3u8
 ABC News Australia,https://stream1.freetv.fun/abc-news-australia-2.ctv
-ABC News Australia,,http://extraott.com:80/live/6772191932/1654508883/191837.m3u8
+ABC Australia,http://extraott.com:80/live/6772191932/1654508883/191837.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
