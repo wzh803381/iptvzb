@@ -1,6 +1,5 @@
 ﻿超高清频道,#genre#
 CCTV-4K,http://iptv.0564.org:35455/gaoma/cctv4k.m3u8
-CCTV-8K,http://iptv.0564.org:35455/gaoma/cctv8k_36m.m3u8
 CCTV-4K,http://liushizupu.site:35455/gaoma/cctv4k.m3u8
 CCTV-8K,http://liushizupu.site:35455/gaoma/cctv8k_36m.m3u8
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
