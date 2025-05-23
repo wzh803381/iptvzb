@@ -5,6 +5,7 @@ CCTV-8K,http://998969.xyz:35455/gaoma/cctv8k_36m.m3u8
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 央视频道,#genre#
 CCTV-1 综合,http://192.168.1.211:4022/udp/233.50.201.118:5140                          
+CCTV-1 综合,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 CCTV-2 财经,http://192.168.1.211:4022/udp/233.50.201.119:5140
 CCTV-3 综艺,http://192.168.1.211:4022/udp/233.50.201.196:5140
 CCTV-4 中文国际,http://192.168.1.211:4022/udp/233.50.200.101:5140                            
