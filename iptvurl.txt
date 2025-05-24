@@ -27,8 +27,7 @@ CCTV-3综艺,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv3
 CCTV-4中文国际,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv4
 CCTV-4美洲,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv4a
 CCTV-4欧洲,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv4o
-CCTV-5体育,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv5
-CCTV-5+体育赛事,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv5p
+CCTV-5,http://39.134.52.215/PLTV/88888888/224/3221227126/index.m3u8
 CCTV-6电影,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv6
 CCTV-7国防军事,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv7
 CCTV-8电视剧,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv8
