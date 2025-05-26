@@ -1,4 +1,6 @@
-
+高清体验频道,#genre#
+南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+北京卫视4K,http://192.168.1.211:4022/udp/233.50.201.193:5140
 央视频道,#genre#
 CCTV-1 综合,http://192.168.1.211:4022/udp/233.50.201.118:5140                          
 CCTV-2 财经,http://192.168.1.211:4022/udp/233.50.201.119:5140
