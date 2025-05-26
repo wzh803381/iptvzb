@@ -1,7 +1,6 @@
 
 央视频道,#genre#
 CCTV-1 综合,http://192.168.1.211:4022/udp/233.50.201.118:5140                          
-CCTV-1 综合,http://t1.pgrm.top:9848/udp/233.50.201.118:5140
 CCTV-2 财经,http://192.168.1.211:4022/udp/233.50.201.119:5140
 CCTV-3 综艺,http://192.168.1.211:4022/udp/233.50.201.196:5140
 CCTV-4 中文国际,http://192.168.1.211:4022/udp/233.50.200.101:5140                            
@@ -27,6 +26,8 @@ CCTV-3综艺,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv3
 CCTV-4中文国际,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv4
 CCTV-4美洲,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv4a
 CCTV-4欧洲,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv4o
+CCTV-5体育,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-5HD/index.m3u8
+CCTV-5+体育赛事,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-5TYSSHD/index.m3u8
 CCTV-6电影,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv6
 CCTV-7国防军事,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv7
 CCTV-8电视剧,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv8
@@ -36,6 +37,8 @@ CCTV-11戏曲,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv11
 CCTV-12社会与法,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv12
 CCTV-13新闻,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv13
 CCTV-14少儿,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv14
+CCTV-15音乐,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-15HD/index.m3u8
+CCTV-16 奥林匹克, http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-16HD/index.m3u8
 CCTV-17农业农村,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv17
 CCTV发现之旅,http://47.117.76.76:7788/live/yangshi/zb.php?id=fxzl
 CCTV老故事,http://47.117.76.76:7788/live/yangshi/zb.php?id=lgs
