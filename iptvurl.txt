@@ -21,51 +21,6 @@ CCTV-15 音乐,http://192.168.1.211:4022/udp/233.50.201.15:5140
 CCTV-16 奥林匹克,http://192.168.1.211:4022/udp/233.50.201.192:5140
 CCTV-16 4K奥林匹克,http://192.168.1.211:4022/udp/233.50.201.63:5140
 CCTV-17 农业农村,http://192.168.1.211:4022/udp/233.50.200.113:5140                         
-全网通频道,#genre#
-CCTV-1综合,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv1
-CCTV-2财经,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv2
-CCTV-3综艺,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv3
-CCTV-4中文国际,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv4
-CCTV-4美洲,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv4a
-CCTV-4欧洲,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv4o
-CCTV-5体育,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-5HD/index.m3u8
-CCTV-5+体育赛事,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-5TYSSHD/index.m3u8
-CCTV-6电影,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv6
-CCTV-7国防军事,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv7
-CCTV-8电视剧,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv8
-CCTV-9纪录,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv9
-CCTV-10科教,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv10
-CCTV-11戏曲,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv11
-CCTV-12社会与法,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv12
-CCTV-13新闻,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv13
-CCTV-14少儿,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv14
-CCTV-15音乐,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-15HD/index.m3u8
-CCTV-16 奥林匹克, http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-16HD/index.m3u8
-CCTV-17农业农村,http://47.117.76.76:7788/live/yangshi/zb.php?id=cctv17
-CCTV发现之旅,http://47.117.76.76:7788/live/yangshi/zb.php?id=fxzl
-CCTV老故事,http://47.117.76.76:7788/live/yangshi/zb.php?id=lgs
-CCTV中学生,http://47.117.76.76:7788/live/yangshi/zb.php?id=zxs
-东方卫视,http://47.117.76.76:7788/live/yangshi/zb.php?id=dfws
-东方卫视,http://8.138.7.223/tv/shtv.php?id=dfws
-吉林卫视,http://47.117.76.76:7788/live/yangshi/zb.php?id=jlws
-辽宁卫视,http://ali.hlspull.yximgs.com/live/e1469cf9eed3fb752012c16ff3d57161.flv
-辽宁卫视,http://itv.iptv1688.top:2016/itv.php?id=辽宁卫视
-辽宁卫视,http://39.134.65.4/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
-青海卫视,http://47.117.76.76:7788/live/yangshi/zb.php?id=qhws
-陕西卫视,http://47.117.76.76:7788/live/yangshi/zb.php?id=sxws
-山东卫视,http://47.117.76.76:7788/live/yangshi/zb.php?id=sdws
-河南卫视,http://47.117.76.76:7788/live/yangshi/zb.php?id=hnws
-湖北卫视,http://47.117.76.76:7788/live/yangshi/zb.php?id=hubws
-江西卫视,http://47.117.76.76:7788/live/yangshi/zb.php?id=jxws
-江苏卫视,http://47.117.76.76:7788/live/yangshi/zb.php?id=jsws
-东南卫视,http://47.117.76.76:7788/live/yangshi/zb.php?id=dnws
-海峡卫视,http://47.117.76.76:7788/live/yangshi/zb.php?id=hxws
-广东卫视,http://47.117.76.76:7788/live/yangshi/zb.php?id=gdws
-大湾区卫视,http://47.117.76.76:7788/live/yangshi/zb.php?id=dwqws
-海南卫视,http://47.117.76.76:7788/live/yangshi/zb.php?id=hinws
-东方影视,http://47.117.76.76:7788/live/yangshi/zb.php?id=dfyangshi
-上海新闻综合,http://47.117.76.76:7788/live/yangshi/zb.php?id=shxwzh
-上海第一财经,http://47.117.76.76:7788/live/yangshi/zb.php?id=dycj
 地方卫视,#genre#
 凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
