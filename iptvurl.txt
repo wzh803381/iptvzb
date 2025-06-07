@@ -1,6 +1,6 @@
 高清体验频道,#genre#
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-北京卫视4K,http://192.168.1.211:4022/udp/233.50.201.193:5140
+浙江卫视,http://192.168.1.211:4022/udp/233.50.201.193:5140
 央视频道,#genre#
 CCTV-1 综合,http://192.168.1.211:4022/udp/233.50.201.118:5140                          
 CCTV-2 财经,http://192.168.1.211:4022/udp/233.50.201.119:5140
@@ -142,10 +142,8 @@ NBC News Now,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132
 FOXNEWS,http://fox-foxnewsnow-samsungus.amagi.tv/playlist360p.m3u8
 FOXNEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 ABC News NY,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-ABC News Australia,https://stream1.freetv.fun/abc-news-australia-1.m3u8
-ABC News Australia,https://stream1.freetv.fun/abc-news-australia-2.ctv
-ABC Australia,http://extraott.com:80/live/6772191932/1654508883/191837.m3u8
-NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+ABC News Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+NHK World,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
