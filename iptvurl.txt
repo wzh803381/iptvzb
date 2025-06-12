@@ -1,6 +1,7 @@
 高清体验频道,#genre#
+CCTV-4k,http://www.douzhicloud.site:35455/nptv/cctv4k.m3u8
+CCTV-8k,http://www.douzhicloud.site:35455/nptv/cctv8k.m3u8
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-浙江卫视,http://192.168.1.211:4022/udp/233.50.201.193:5140
 央视频道,#genre#
 CCTV-1 综合,http://192.168.1.211:4022/udp/233.50.201.118:5140                          
 CCTV-2 财经,http://192.168.1.211:4022/udp/233.50.201.119:5140
@@ -24,10 +25,9 @@ CCTV-17 农业农村,http://192.168.1.211:4022/udp/233.50.200.113:5140
 地方卫视,#genre#
 凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰中文,http://192.168.1.211:4022/udp/233.50.200.191:5140
 凤凰资讯,http://192.168.1.211:4022/udp/233.50.200.192:5140
+浙江卫视,http://192.168.1.211:4022/udp/233.50.201.193:5140
 浙江卫视,http://192.168.1.211:4022/udp/233.50.201.100:5140
 东方卫视,http://192.168.1.211:4022/udp/233.50.201.125:5140
 北京卫视,http://192.168.1.211:4022/udp/233.50.201.107:5140
@@ -86,7 +86,6 @@ CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&play
 绍兴新闻综合频道,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 上虞新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 上虞新商都频道,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-兰溪新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 龙游生活娱乐频道,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 平湖新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
