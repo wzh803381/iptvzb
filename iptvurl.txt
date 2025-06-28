@@ -3,6 +3,9 @@ CCTV-4k,http://ss.baihuan.online:35455/nptv/cctv4k.m3u8
 CCTV-4k,http://www.douzhicloud.site:35455/nptv/cctv4k.m3u8
 CCTV-8k,http://ss.baihuan.online:35455/nptv/cctv8k.m3u8
 CCTV-8k,http://www.douzhicloud.site:35455/nptv/cctv8k.m3u8
+北京卫视4k,http://192.168.1.211:4022/udp/233.50.202.100:5140
+广东卫视4k,http://192.168.1.211:4022/udp/233.50.201.194:5140
+深圳卫视4k,http://192.168.1.211:4022/udp/233.50.201.193:5140
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 央视频道,#genre#
 CCTV-1 综合,http://192.168.1.211:4022/udp/233.50.201.118:5140                          
