@@ -1,11 +1,7 @@
 高清体验频道,#genre#
-CCTV-4k,http://ss.baihuan.online:35455/nptv/cctv4k.m3u8
-CCTV-4k,http://www.douzhicloud.site:35455/nptv/cctv4k.m3u8
-CCTV-8k,http://ss.baihuan.online:35455/nptv/cctv8k.m3u8
-CCTV-8k,http://www.douzhicloud.site:35455/nptv/cctv8k.m3u8
 北京卫视4k,http://192.168.1.211:4022/udp/233.50.202.100:5140
-广东卫视4k,http://192.168.1.211:4022/udp/233.50.201.194:5140
-深圳卫视4k,http://192.168.1.211:4022/udp/233.50.201.193:5140
+CCTV-5 4k,http://192.168.1.211:4022/udp/233.50.201.194:5140
+CCTV-5 4k,http://192.168.1.211:4022/udp/233.50.201.193:5140
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 央视频道,#genre#
 CCTV-1 综合,http://192.168.1.211:4022/udp/233.50.201.118:5140                          
@@ -58,25 +54,6 @@ CCTV-17 农业农村,http://192.168.1.211:4022/udp/233.50.200.113:5140
 教育电视频道,#genre#
 CETV-1,http://192.168.1.211:4022/udp/233.50.201.75:5140  
 CETV-4,http://192.168.1.211:4022/udp/233.50.200.162:5140
-数字影视剧频道,#genre#
-中國電影頻道,http://bx.757888.xyz/api.php?id=zgdy
-美亞電影台,http://bx.757888.xyz/api.php?id=meiya
-天映經典頻道,http://bx.757888.xyz/api.php?id=tyjd
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-重温经典,http://148.135.93.213:81/live.php?id=重温经典
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
-CHC动作电影,http://ss.baihuan.online:35455/mgtv/644368714.m3u8
-CHC家庭影院,http://ss.baihuan.online:35455/mgtv/644368373.m3u8
-CHC影迷电影,http://ss.baihuan.online:35455/mgtv/952383261.m3u8
-CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
-CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
-CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
-CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,http://148.135.93.213:81/live.php?id=CHC动作电影
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,http://148.135.93.213:81/live.php?id=CHC家庭影院
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江地区频道,#genre#
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
