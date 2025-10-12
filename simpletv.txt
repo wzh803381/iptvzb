@@ -3,7 +3,7 @@
 浙江钱江都市,http://wzh3381.cn:4022/udp/233.50.201.132:5140
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教科影视,http://wzh3381.cn:4022/udp/233.50.201.134:5140
-浙江经视生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江经济生活,http://wzh3381.cn:4022/udp/233.50.201.133:5140
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江民生休闲,http://wzh3381.cn:4022/udp/233.50.201.136:5140
@@ -18,4 +18,5 @@ CCTV-8 电视剧,http://wzh3381.cn:4022/udp/233.50.201.199:5140
 浙江卫视,http://wzh3381.cn:4022/udp/233.50.201.100:5140
 东方卫视,http://wzh3381.cn:4022/udp/233.50.201.125:5140
 北京卫视,http://wzh3381.cn:4022/udp/233.50.201.107:5140
+
 
