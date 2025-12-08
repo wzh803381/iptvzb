@@ -3,16 +3,6 @@ CCTV-1 综合,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=KEENof&tk=aeFo3Lxm1D
 CCTV-1 综合,http://wzh3381.cn:4022/udp/233.50.201.118:5140  
 CCTV-8 电视剧,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=jyYVag&tk=aeFo3Lxm1DH1
 CCTV-8 电视剧,http://wzh3381.cn:4022/udp/233.50.201.199:5140
-杭州综合,http://wzh3381.cn:4022/udp/233.50.201.173:5140
-西湖明珠,http://wzh3381.cn:4022/udp/233.50.201.174:5140
-杭州生活,http://wzh3381.cn:4022/udp/233.50.201.175:5140
-杭州影视,http://wzh3381.cn:4022/udp/233.50.201.176:5140
-杭州导视,http://wzh3381.cn:4022/udp/233.50.201.182:5140
-萧山综合频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-浙江钱江,http://wzh3381.cn:4022/udp/233.50.201.132:5140
-浙江教科影视,http://wzh3381.cn:4022/udp/233.50.201.134:5140
-浙江经济生活,http://wzh3381.cn:4022/udp/233.50.201.133:5140
-浙江民生休闲,http://wzh3381.cn:4022/udp/233.50.201.136:5140
 浙江卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=j4M43p&tk=aeFo3Lxm1DH1
 浙江卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=2yLcHm&tk=aeFo3Lxm1DH1
 浙江卫视,http://wzh3381.cn:4022/udp/233.50.201.100:5140
@@ -36,6 +26,17 @@ CCTV-8 电视剧,http://wzh3381.cn:4022/udp/233.50.201.199:5140
 深圳卫视,http://wzh3381.cn:4022/udp/233.50.201.101:5140
 广东卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=jtJo6y&tk=aeFo3Lxm1DH1
 广东卫视,http://wzh3381.cn:4022/udp/233.50.201.102:5140
+杭州综合,http://wzh3381.cn:4022/udp/233.50.201.173:5140
+西湖明珠,http://wzh3381.cn:4022/udp/233.50.201.174:5140
+杭州生活,http://wzh3381.cn:4022/udp/233.50.201.175:5140
+杭州影视,http://wzh3381.cn:4022/udp/233.50.201.176:5140
+杭州导视,http://wzh3381.cn:4022/udp/233.50.201.182:5140
+萧山综合频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+浙江钱江,http://wzh3381.cn:4022/udp/233.50.201.132:5140
+浙江教科影视,http://wzh3381.cn:4022/udp/233.50.201.134:5140
+浙江经济生活,http://wzh3381.cn:4022/udp/233.50.201.133:5140
+浙江民生休闲,http://wzh3381.cn:4022/udp/233.50.201.136:5140
+
 
 
 
