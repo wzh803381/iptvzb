@@ -1,41 +1,28 @@
 直播频道,#genre#
-CCTV-1 综合,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=KEENof&tk=aeFo3Lxm1DH1
-CCTV-1 综合,http://wzh3381.cn:4022/udp/233.50.201.118:5140  
-CCTV-8 电视剧,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=jyYVag&tk=aeFo3Lxm1DH1
-CCTV-8 电视剧,http://wzh3381.cn:4022/udp/233.50.201.199:5140
-浙江卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=j4M43p&tk=aeFo3Lxm1DH1
-浙江卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=2yLcHm&tk=aeFo3Lxm1DH1
-浙江卫视,http://wzh3381.cn:4022/udp/233.50.201.100:5140
-东方卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=lxJM8A&tk=aeFo3Lxm1DH1
-东方卫视,http://wzh3381.cn:4022/udp/233.50.201.125:5140
-北京卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=gLLTKQ&tk=aeFo3Lxm1DH1
-北京卫视,http://wzh3381.cn:4022/udp/233.50.201.107:5140
-天津卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=tGLkBp&tk=aeFo3Lxm1DH1
-天津卫视,http://wzh3381.cn:4022/udp/233.50.201.104:5140
-山东卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=u1dCSC&tk=aeFo3Lxm1DH1
-山东卫视,http://wzh3381.cn:4022/udp/233.50.201.105:5140
-江西卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=I8UfZW&tk=aeFo3Lxm1DH1
-江西卫视,http://wzh3381.cn:4022/udp/233.50.201.145:5140
-安徽卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=SJR5Re&tk=aeFo3Lxm1DH1
-安徽卫视,http://wzh3381.cn:4022/udp/233.50.201.113:5140
-江苏卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=AcroRg&tk=aeFo3Lxm1DH1
-江苏卫视,http://wzh3381.cn:4022/udp/233.50.201.106:5140
-湖南卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=doYWK8&tk=aeFo3Lxm1DH1
-湖南卫视,http://wzh3381.cn:4022/udp/233.50.201.103:5140
-深圳卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=fd9uO7&tk=aeFo3Lxm1DH1
-深圳卫视,http://wzh3381.cn:4022/udp/233.50.201.101:5140
-广东卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=jtJo6y&tk=aeFo3Lxm1DH1
-广东卫视,http://wzh3381.cn:4022/udp/233.50.201.102:5140
-杭州综合,http://wzh3381.cn:4022/udp/233.50.201.173:5140
-西湖明珠,http://wzh3381.cn:4022/udp/233.50.201.174:5140
-杭州生活,http://wzh3381.cn:4022/udp/233.50.201.175:5140
-杭州影视,http://wzh3381.cn:4022/udp/233.50.201.176:5140
-杭州导视,http://wzh3381.cn:4022/udp/233.50.201.182:5140
+CCTV-1 综合,http://wzh3381.cn:10000/udp/233.50.201.118:5140  
+CCTV-8 电视剧,http://wzh3381.cn:10000/udp/233.50.201.199:5140
+杭州综合,http://wzh3381.cn:10000/udp/233.50.201.173:5140
+西湖明珠,http://wzh3381.cn:10000/udp/233.50.201.174:5140
+杭州生活,http://wzh3381.cn:10000/udp/233.50.201.175:5140
+杭州影视,http://wzh3381.cn:10000/udp/233.50.201.176:5140
+杭州导视,http://wzh3381.cn:10000/udp/233.50.201.182:5140
 萧山综合频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-浙江钱江,http://wzh3381.cn:4022/udp/233.50.201.132:5140
-浙江教科影视,http://wzh3381.cn:4022/udp/233.50.201.134:5140
-浙江经济生活,http://wzh3381.cn:4022/udp/233.50.201.133:5140
-浙江民生休闲,http://wzh3381.cn:4022/udp/233.50.201.136:5140
+浙江钱江,http://wzh3381.cn:10000/udp/233.50.201.132:5140
+浙江教科影视,http://wzh3381.cn:10000/udp/233.50.201.134:5140
+浙江经济生活,http://wzh3381.cn:10000/udp/233.50.201.133:5140
+浙江民生休闲,http://wzh3381.cn:10000/udp/233.50.201.136:5140
+浙江卫视,http://wzh3381.cn:10000/udp/233.50.201.100:5140
+东方卫视,http://wzh3381.cn:10000/udp/233.50.201.125:5140
+北京卫视,http://wzh3381.cn:10000/udp/233.50.201.107:5140
+天津卫视,http://wzh3381.cn:10000/udp/233.50.201.104:5140
+山东卫视,http://wzh3381.cn:10000/udp/233.50.201.105:5140
+江西卫视,http://wzh3381.cn:10000/udp/233.50.201.145:5140
+安徽卫视,http://wzh3381.cn:10000/udp/233.50.201.113:5140
+江苏卫视,http://wzh3381.cn:10000/udp/233.50.201.106:5140
+湖南卫视,http://wzh3381.cn:10000/udp/233.50.201.103:5140
+深圳卫视,http://wzh3381.cn:10000/udp/233.50.201.101:5140
+广东卫视,http://wzh3381.cn:10000/udp/233.50.201.102:5140
+
 
 
 
