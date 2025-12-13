@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 tvg-name="杭州综合" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="直播频道",杭州1综合
+#EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://github.com/FHZDCJ/Zhejiang_Telecom_IPTV/blob/main/Logo/%E6%9D%AD%E5%B7%9E%E7%BB%BC%E5%90%88.png" group-title="直播频道",杭州1综合
 http://192.168.1.211:4022/udp/233.50.201.173:5140
-#EXTINF:-1 tvg-name="杭州西湖明珠" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="直播频道",杭州2明珠
+#EXTINF:-1 tvg-name="杭州西湖明珠" tvg-logo="https://github.com/FHZDCJ/Zhejiang_Telecom_IPTV/blob/main/Logo/%E6%9D%AD%E5%B7%9E%E6%98%8E%E7%8F%A0.png" group-title="直播频道",杭州2明珠
 http://192.168.1.211:4022/udp/233.50.201.174:5140
-#EXTINF:-1 tvg-name="杭州生活" tvg-logo="https://epg.112114.xyz/logo/hztv3.png" group-title="直播频道",杭州3生活
+#EXTINF:-1 tvg-name="杭州生活" tvg-logo=" https://github.com/FHZDCJ/Zhejiang_Telecom_IPTV/blob/main/Logo/%E6%9D%AD%E5%B7%9E%E7%94%9F%E6%B4%BB.png" group-title="直播频道",杭州3生活
 http://192.168.1.211:4022/udp/233.50.201.175:5140
-#EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://epg.112114.xyz/logo/hztv4.png" group-title="直播频道",杭州4影视
+#EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://github.com/FHZDCJ/Zhejiang_Telecom_IPTV/blob/main/Logo/%E6%9D%AD%E5%B7%9E%E5%BD%B1%E8%A7%86.png" group-title="直播频道",杭州4影视
 http://192.168.1.211:4022/udp/233.50.201.176:5140
-#EXTINF:-1 tvg-name="杭州青少" tvg-logo="https://epg.112114.xyz/logo/hztv5.png" group-title="直播频道",杭州5青少
+#EXTINF:-1 tvg-name="杭州青少" tvg-logo="https://github.com/FHZDCJ/Zhejiang_Telecom_IPTV/blob/main/Logo/%E6%9D%AD%E5%B7%9E%E9%9D%92%E5%B0%91.png" group-title="直播频道",杭州5青少
 http://192.168.1.211:4022/udp/233.50.201.177:5140
-#EXTINF:-1 tvg-name="杭州导视" tvg-logo="https://epg.112114.xyz/logo/hzds.png" group-title="直播频道",杭州导视
+#EXTINF:-1 tvg-name="杭州导视" tvg-logo="https://github.com/FHZDCJ/Zhejiang_Telecom_IPTV/blob/main/Logo/%E6%9D%AD%E5%B7%9E%E5%AF%BC%E8%A7%86.png" group-title="直播频道",杭州导视
 http://192.168.1.211:4022/udp/233.50.201.182:5140
 #EXTINF:-1 tvg-name="萧山综合" tvg-logo="https://live.fanmingming.cn/tv/萧山综合.png",group-title="直播频道",萧山综合
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
@@ -53,4 +53,5 @@ http://192.168.1.211:4022/udp/233.50.201.125:5140
 http://192.168.1.211:4022/udp/233.50.201.113:5140
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山东卫视.png" group-title="直播频道",山东卫视
 http://192.168.1.211:4022/udp/233.50.201.105:5140
+
 
