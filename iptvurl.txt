@@ -13,15 +13,13 @@ http://192.168.1.211:4022/udp/233.50.202.107:5140
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广东卫视4K.png"  group-title="4K频道",广东卫视4K
 http://192.168.1.211:4022/udp/233.50.202.101:5140
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/深圳卫视4K.png" group-title="4K频道",深圳卫视4K
-hhttp://192.168.1.211:4022/udp/233.50.202.102:5140
+http://192.168.1.211:4022/udp/233.50.202.102:5140
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山东卫视4K.png"  group-title="4K频道",山东卫视4K
 http://192.168.1.211:4022/udp/233.50.202.108:5140
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/四川卫视4K.png" group-title="4K频道",四川卫视4K
 http://192.168.1.211:4022/udp/233.50.202.109:5140
 #EXTINF:-1 tvg-id="苏州" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/苏州4K.png" group-title="4K频道",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-#EXTINF:-1 tvg-id="河北" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/河北4K.png" group-title="4K频道",河北4K
-https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-id="南国都市" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南国都市4K.png" group-title="4K频道",南国都市4K
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="4K频道",CCTV4K真4K
@@ -184,9 +182,12 @@ https://jmp2.uk/sam-USBA300024TN.m3u8
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
 #EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/tv-logos/main/countries/united-states/abc-news-live-hz-us.png" group-title="国际频道",ABC News Live
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
+#EXTINF:-1 group-title="国际频道"，ABC News Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 group-title="国际频道",WionNews
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK World" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/NHKWorld.png" group-title="国际频道",NHK World
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/NBC1.png" group-title="国际频道",NBC News Now
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99992212
@@ -196,8 +197,6 @@ https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ArirangTV.png" group-title="国际频道",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-id="RT08" tvg-name="日本新闻" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/worldTV/日本全天新闻.png" group-title="国际频道",日本全天新闻
-https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://live.fanmingming.cn/tv/TRT-World.png" group-title="国际频道",TRT World 
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="6159" tvg-name="AXS TV Now" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="国际频道",AXS TV Now
@@ -212,20 +211,6 @@ http://91.247.68.229:8000/play/Fashion/index.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="RT01" tvg-name="RT News" tvg-logo="https://live.fanmingming.cn/tv/RTNews.png" group-title="国际频道",RT News（英语国际）
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT02" tvg-name="RT Español" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png" group-title="国际频道",RT Español（西语）
-https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT03" tvg-name="RT Français" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png" group-title="国际频道",RT Français（法语）
-https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT04" tvg-name="RT Arabic" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png" group-title="国际频道",RT Arabic（阿语）
-https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT05" tvg-name="RT DE" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT德国.png" group-title="国际频道",RT DE（德语）
-https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT05" tvg-name="RT DE" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT塞尔维亚.png" group-title="国际频道",RT Balkan （塞尔维亚语）
-https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT06" tvg-name="RT Documentary" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RTDoc.png" group-title="国际频道",RT Documentary（英语纪录）
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT07" tvg-name="RT Doc-Русский" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RTDoc.png" group-title="国际频道",RT Doc-Русский（俄语纪录）
-https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 group-title="国际频道",SKY
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
 #EXTINF:-1 group-title="国际频道",KBS world
@@ -234,44 +219,9 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 #EXTINF:-1 group-title="国际频道",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="国际频道",Dubai One
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 group-title="国际频道",CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 group-title="国际频道",GB News
 https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
-#EXTINF:-1 group-title="国际频道",TBS
-http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1 group-title="国际频道",Taiwan Plus
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",ION Plus
-https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
-#EXTINF:-1 group-title="国际频道",ION
-https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
-#EXTINF:-1 group-title="国际频道",Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="国际频道",Disney International
-http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
-#EXTINF:-1 group-title="国际频道",Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",&Flix HD
-http://89.187.177.137:8081/&FLIX/index.m3u8
-#EXTINF:-1 group-title="国际频道",Wild Earth
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title="国际频道",Wild Planet
-https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
-#EXTINF:-1 group-title="国际频道",Clarity 4K
-https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
-#EXTINF:-1 group-title="国际频道",Stadium
-https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
-#EXTINF:-1 group-title="国际频道",Pop
-http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
-#EXTINF:-1 group-title="国际频道",Tastemade
-https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
-#EXTINF:-1 group-title="国际频道",MovieSphere
-https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
-#EXTINF:-1 group-title="国际频道",The Lego Channel
-https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
-#EXTINF:-1 group-title="国际频道",NextUp Live Comedy
-https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
+
 
