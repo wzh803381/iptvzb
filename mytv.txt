@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=""https://live.fanmingming.cn/e.xml“
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml”
 #EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://github.com/FHZDCJ/Zhejiang_Telecom_IPTV/blob/main/Logo/%E6%9D%AD%E5%B7%9E%E7%BB%BC%E5%90%88.png" group-title="直播频道",杭州1综合
 http://192.168.1.211:4022/udp/233.50.201.173:5140
 #EXTINF:-1 tvg-name="杭州西湖明珠" tvg-logo="https://github.com/FHZDCJ/Zhejiang_Telecom_IPTV/blob/main/Logo/%E6%9D%AD%E5%B7%9E%E6%98%8E%E7%8F%A0.png" group-title="直播频道",杭州2明珠
@@ -53,6 +53,7 @@ http://192.168.1.211:4022/udp/233.50.201.125:5140
 http://192.168.1.211:4022/udp/233.50.201.113:5140
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山东卫视.png" group-title="直播频道",山东卫视
 http://192.168.1.211:4022/udp/233.50.201.105:5140
+
 
 
 
