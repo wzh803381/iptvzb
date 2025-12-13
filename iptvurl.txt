@@ -173,11 +173,11 @@ http://192.168.1.211:4022/udp/233.50.200.11:5140
 http://192.168.1.211:4022/udp/233.50.200.122:5140
 #国际频道
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/BBCNEWS.png" group-title="国际频道",BBC
-http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ChannelAsia.png" group-title="国际频道",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CNN.png" group-title="国际频道",CNN
-https://jmp2.uk/sam-GBBD8000016N.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 #EXTINF:-1 tvg-name="Fox LiveNow" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="国际频道",Fox LiveNow
 https://jmp2.uk/sam-USBA300024TN.m3u8
 #EXTINF:-1 tvg-name="CBC News" tvg-logo="https://i.imgur.com/1EqQGKS.png" group-title="国际频道",CBC News
@@ -189,7 +189,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK World" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/NHKWorld.png" group-title="国际频道",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/NBC1.png" group-title="国际频道",NBC News Now
-https://jmp2.uk/sam-GBBB1500004LG.m3u8
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99992212
 #EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/SkyNews.png" group-title="国际频道",Sky News
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 #EXTINF:-1 tvg-id="AlJaz" tvg-name="AlJazeera" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/AlJazeera.png" group-title="国际频道",Al Jazeera
