@@ -11,10 +11,6 @@ http://192.168.1.211:4022/udp/233.50.201.176:5140
 http://192.168.1.211:4022/udp/233.50.201.177:5140
 #EXTINF:-1 tvg-name="杭州导视" tvg-logo="https://epg.112114.xyz/logo/hzds.png" group-title="直播频道",杭州导视
 http://192.168.1.211:4022/udp/233.50.201.182:5140
-#EXTINF:-1 tvg-name="临平新闻" tvg-logo="https://epg.112114.xyz/logo/临平新闻.png" group-title="直播频道",临平新闻
-http://192.168.1.211:4022/udp/233.50.202.32:5140
-#EXTINF:-1 tvg-name="余杭新闻" tvg-logo="https://epg.112114.xyz/logo/余杭新闻.png" group-title="直播频道",余杭新闻
-http://192.168.1.211:4022/udp/233.50.201.159:5140
 #EXTINF:-1 tvg-name="萧山综合" tvg-logo="https://live.fanmingming.cn/tv/萧山综合.png",group-title="直播频道",萧山综合
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang1.png" group-title="直播频道",浙江钱江
@@ -57,3 +53,4 @@ http://192.168.1.211:4022/udp/233.50.201.125:5140
 http://192.168.1.211:4022/udp/233.50.201.113:5140
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山东卫视.png" group-title="直播频道",山东卫视
 http://192.168.1.211:4022/udp/233.50.201.105:5140
+
