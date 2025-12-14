@@ -82,7 +82,7 @@ http://192.168.1.211:4022/udp/233.50.201.125:5140
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东南卫视.png" group-title="卫视频道",东南卫视
 http://192.168.1.211:4022/udp/233.50.201.146:5140
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://192.168.1.211:4022/udp/233.50.202.42:5140
+http://192.168.1.211:4022/udp/233.50.200.164:5140  
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/四川卫视.png" group-title="卫视频道",四川卫视
 http://192.168.1.211:4022/udp/233.50.201.139:5140
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/天津卫视.png" group-title="卫视频道",天津卫视
