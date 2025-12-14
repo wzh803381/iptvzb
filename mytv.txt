@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml”
 #EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/杭州综合.png" group-title="直播频道",杭州1综合
 http://192.168.1.211:4022/udp/233.50.201.173:5140
-#EXTINF:-1 tvg-name="杭州西湖明珠" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/杭州明珠" group-title="直播频道",杭州2明珠
+#EXTINF:-1 tvg-name="杭州西湖明珠" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/杭州明珠.png" group-title="直播频道",杭州2明珠
 http://192.168.1.211:4022/udp/233.50.201.174:5140
-#EXTINF:-1 tvg-name="杭州生活" tvg-logo=" https://myepg.org/Zhejiang_Telecom_IPTV/Logo/杭州生活" group-title="直播频道",杭州3生活
+#EXTINF:-1 tvg-name="杭州生活" tvg-logo=" https://myepg.org/Zhejiang_Telecom_IPTV/Logo/杭州生活.png" group-title="直播频道",杭州3生活
 http://192.168.1.211:4022/udp/233.50.201.175:5140
 #EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/杭州影视.png" group-title="直播频道",杭州4影视
 http://192.168.1.211:4022/udp/233.50.201.176:5140
@@ -53,6 +53,7 @@ http://192.168.1.211:4022/udp/233.50.201.125:5140
 http://192.168.1.211:4022/udp/233.50.201.113:5140
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山东卫视.png" group-title="直播频道",山东卫视
 http://192.168.1.211:4022/udp/233.50.201.105:5140
+
 
 
 
