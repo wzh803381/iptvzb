@@ -116,13 +116,31 @@ http://192.168.1.211:4022/udp/233.50.200.165:5140
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.cn/tv/中国教育1台.png" group-title="卫视频道",中国教育1台
 http://192.168.1.211:4022/udp/233.50.201.75:5140  
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.cn/tv/中国教育4台.png" group-title="卫视频道",中国教育4台
-http://192.168.1.211:4022/udp/233.50.200.162:5140
+http://192.168.1.211:4022/udp/233.50.200.174:5140
 #港澳代理
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰中文台.png" group-title="港澳代理",凤凰中文
 http://192.168.1.211:4022/udp/233.50.202.35:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯台.png" group-title="港澳代理",凤凰资讯
 http://192.168.1.211:4022/udp/233.50.202.36:5140
 #☘️浙江频道#
+#EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/杭州综合.png" group-title="☘️浙江频道",杭州1综合
+http://192.168.1.211:4022/udp/233.50.201.173:5140
+#EXTINF:-1 tvg-name="杭州西湖明珠" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/杭州明珠.png" group-title="☘️浙江频道",杭州2明珠
+http://192.168.1.211:4022/udp/233.50.201.174:5140
+#EXTINF:-1 tvg-name="杭州生活" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/杭州生活.png" group-title="☘️浙江频道",杭州3生活
+http://192.168.1.211:4022/udp/233.50.201.175:5140
+#EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/杭州影视.png" group-title="☘️浙江频道",杭州4影视
+http://192.168.1.211:4022/udp/233.50.201.176:5140
+#EXTINF:-1 tvg-name="杭州青少" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/杭州青少.png" group-title="☘️浙江频道",杭州5青少
+http://192.168.1.211:4022/udp/233.50.201.177:5140
+#EXTINF:-1 tvg-name="杭州导视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/杭州导视.png" group-title="☘️浙江频道",杭州导视
+http://192.168.1.211:4022/udp/233.50.201.182:5140
+#EXTINF:-1 tvg-name="临平新闻" tvg-logo="https://epg.112114.xyz/logo/临平新闻.png" group-title="☘️浙江频道",临平新闻
+http://192.168.1.211:4022/udp/233.50.202.32:5140
+#EXTINF:-1 tvg-name="余杭新闻" tvg-logo="https://epg.112114.xyz/logo/余杭新闻.png" group-title="☘️浙江频道",余杭新闻
+http://192.168.1.211:4022/udp/233.50.201.159:5140
+#EXTINF:-1 tvg-name="萧山综合" tvg-logo="https://live.fanmingming.cn/tv/萧山综合.png",group-title="☘️浙江频道",萧山综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 #EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang5.png" group-title="☘️浙江频道",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang7.png" group-title="☘️浙江频道",浙江国际
@@ -139,12 +157,8 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/zhejiang/Zhejiang8.png" group-title="☘️浙江频道",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-name="萧山综合" tvg-logo="https://live.fanmingming.cn/tv/萧山综合.png" group-title="☘️浙江频道",萧山综合
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 #EXTINF:-1 tvg-name="象山新闻综合" tvg-logo="https://live.fanmingming.cn/tv/象山新闻综合.png" group-title="☘️浙江频道",象山新闻综合
 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
-#EXTINF:-1 tvg-name="文成新闻综合" tvg-logo="https://live.fanmingming.cn/tv/文成新闻综合.png" group-title="☘️浙江频道",文成新闻综合
-http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 #EXTINF:-1 tvg-name="青田电视台" tvg-logo="https://live.fanmingming.cn/tv/青田电视台.png" group-title="☘️浙江频道",青田电视台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 #EXTINF:-1 tvg-name="云和新闻综合" tvg-logo="https://live.fanmingming.cn/tv/云和新闻综合.png" group-title="☘️浙江频道",云和新闻综合
@@ -168,6 +182,8 @@ http://192.168.1.211:4022/udp/233.50.200.11:5140
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.cn/tv/金色学堂.png" tvg-name="金色学堂" group-title="数字频道",金色学堂
 http://192.168.1.211:4022/udp/233.50.200.122:5140
 #国际频道
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CGTN.png" group-title="国际频道",CGTN
+https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/BBCNEWS.png" group-title="国际频道",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ChannelAsia.png" group-title="国际频道",CNA
