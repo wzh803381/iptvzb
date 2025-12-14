@@ -14,15 +14,20 @@ http://wzh3381.cn:4022/udp/233.50.201.182:5140
 #EXTINF:-1 tvg-name="萧山综合" tvg-logo="https://live.fanmingming.cn/tv/萧山综合.png",group-title="直播频道",萧山综合
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang1.png" group-title="直播频道",浙江钱江
-http://wzh3381.cn:4022/udp/233.50.201.132:5140
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#http://wzh3381.cn:4022/udp/233.50.201.132:5140
 #EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经济生活" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang2.png" group-title="直播频道",浙江经济
-http://wzh3381.cn:4022/udp/233.50.201.133:5140
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#http://wzh3381.cn:4022/udp/233.50.201.133:5140
 #EXTINF:-1 tvg-id="浙江教科" tvg-name="浙江教科影视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang3.png" group-title="直播频道",浙江教科
-http://wzh3381.cn:4022/udp/233.50.201.134:5140
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#http://wzh3381.cn:4022/udp/233.50.201.134:5140
 #EXTINF:-1 tvg-id="浙江民生" tvg-name="浙江民生休闲" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang4.png" group-title="直播频道",浙江民生
-http://wzh3381.cn:4022/udp/233.50.201.136:5140
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#http://wzh3381.cn:4022/udp/233.50.201.136:5140
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang6.png" group-title="直播频道",浙江少儿
-http://wzh3381.cn:4022/udp/233.50.201.138:5140
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#http://wzh3381.cn:4022/udp/233.50.201.138:5140
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="直播频道",CCTV1
 http://wzh3381.cn:4022/udp/233.50.201.118:5140
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV2.png" group-title="直播频道",CCTV2
@@ -53,6 +58,7 @@ http://wzh3381.cn:4022/udp/233.50.201.125:5140
 http://wzh3381.cn:4022/udp/233.50.201.113:5140
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山东卫视.png" group-title="直播频道",山东卫视
 http://wzh3381.cn:4022/udp/233.50.201.105:5140
+
 
 
 
