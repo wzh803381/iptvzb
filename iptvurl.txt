@@ -195,6 +195,10 @@ https://jmp2.uk/stvp-GBBD8000016N
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/NBC1.png" group-title="国际频道",NBC News Now
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99992212
+#EXTINF:-1 group-title="国际频道",FOX NEWS
+http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1611.ts
+#EXTINF:-1 group-title="国际频道",SKY NEWS
+https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
 #EXTINF:-1 group-title="国际频道",ABC News NOW
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="国际频道",ABC iVIEW
